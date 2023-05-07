@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "551988237358",
+    "project_id": "arukereso-azurcw-2023",
+    "storage_bucket": "arukereso-azurcw-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551988237358:android:60fafbef3027c020077bbf",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551988237358-lbsnre1gb0dp8n89hhndfaah6g6niqg2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "3a1841d287fc6a8ef8f000eae66ae3400065e13b"
+          }
+        },
+        {
+          "client_id": "551988237358-ealo60eg3e67et84hefdpptmg2agqe09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyf-A48BXJ594nUgkurYYTPsRmkhsMl_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551988237358-ealo60eg3e67et84hefdpptmg2agqe09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
